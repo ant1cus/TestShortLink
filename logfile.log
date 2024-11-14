@@ -1,0 +1,85 @@
+[2024-11-12 16:07:55,609.609] INFO [24060] - Started server process [23164]
+[2024-11-12 16:07:55,609.609] INFO [24060] - Waiting for application startup.
+[2024-11-12 16:07:55,736.736] INFO [24060] - Application startup complete.
+[2024-11-12 16:07:55,815.815] INFO [24060] - Uvicorn running on http://localhost:3000 (Press CTRL+C to quit)
+[2024-11-12 16:08:23,671.671] INFO [24060] - ::1:60965 - "GET /docs HTTP/1.1" 200
+[2024-11-12 16:08:25,876.876] INFO [24060] - ::1:60965 - "GET /openapi.json HTTP/1.1" 200
+[2024-11-12 16:08:36,069.069] INFO [24060] - ::1:60966 - "POST /add_short_link?url=https%3A%2F%2Fwww.sports.ru%2F HTTP/1.1" 200
+[2024-11-12 16:10:36,855.855] INFO [24060] - Shutting down
+[2024-11-12 16:10:36,984.984] INFO [24060] - Waiting for application shutdown.
+[2024-11-12 16:10:36,985.985] INFO [24060] - Application shutdown complete.
+[2024-11-12 16:10:36,990.990] INFO [24060] - Finished server process [23164]
+[2024-11-14 14:37:13,604.604] INFO [4940] - Started server process [17132]
+[2024-11-14 14:37:13,604.604] INFO [4940] - Waiting for application startup.
+[2024-11-14 14:37:13,637.637] INFO [4940] - Application startup complete.
+[2024-11-14 14:37:13,654.654] INFO [4940] - Uvicorn running on http://localhost:3000 (Press CTRL+C to quit)
+[2024-11-14 14:37:27,332.332] INFO [4940] - ::1:51025 - "GET /docs HTTP/1.1" 200
+[2024-11-14 14:37:27,531.531] INFO [4940] - ::1:51025 - "GET /docs HTTP/1.1" 200
+[2024-11-14 14:37:27,804.804] INFO [4940] - ::1:51025 - "GET /openapi.json HTTP/1.1" 200
+[2024-11-14 15:04:00,053.053] INFO [4940] - Shutting down
+[2024-11-14 15:04:00,163.163] INFO [4940] - Waiting for application shutdown.
+[2024-11-14 15:04:00,163.163] INFO [4940] - Application shutdown complete.
+[2024-11-14 15:04:00,163.163] INFO [4940] - Finished server process [17132]
+[2024-11-14 15:04:02,720.720] INFO [11792] - Started server process [11976]
+[2024-11-14 15:04:02,720.720] INFO [11792] - Waiting for application startup.
+[2024-11-14 15:04:02,741.741] INFO [11792] - Application startup complete.
+[2024-11-14 15:04:02,743.743] INFO [11792] - Uvicorn running on http://localhost:3000 (Press CTRL+C to quit)
+[2024-11-14 15:04:08,965.965] INFO [11792] - ::1:52806 - "GET /docs HTTP/1.1" 200
+[2024-11-14 15:04:09,518.518] INFO [11792] - ::1:52806 - "GET /openapi.json HTTP/1.1" 200
+[2024-11-14 15:04:25,779.779] INFO [11792] - ::1:52807 - "POST /add_short_link?url=https%3A%2F%2Fwww.sports.ru%2Fhandball%2Fblogs%2F3274901.html HTTP/1.1" 200
+[2024-11-14 15:04:54,109.109] INFO [11792] - Shutting down
+[2024-11-14 15:04:54,220.220] INFO [11792] - Waiting for application shutdown.
+[2024-11-14 15:04:54,220.220] INFO [11792] - Application shutdown complete.
+[2024-11-14 15:04:54,220.220] INFO [11792] - Finished server process [11976]
+[2024-11-14 15:04:55,979.979] INFO [5448] - Started server process [12156]
+[2024-11-14 15:04:55,979.979] INFO [5448] - Waiting for application startup.
+[2024-11-14 15:04:55,995.995] INFO [5448] - Application startup complete.
+[2024-11-14 15:04:56,010.010] INFO [5448] - Uvicorn running on http://localhost:3000 (Press CTRL+C to quit)
+[2024-11-14 15:05:01,408.408] INFO [5448] - ::1:52834 - "GET /docs HTTP/1.1" 200
+[2024-11-14 15:05:01,919.919] INFO [5448] - ::1:52834 - "GET /openapi.json HTTP/1.1" 200
+[2024-11-14 15:05:05,880.880] INFO [5448] - ::1:52834 - "POST /add_short_link?url=https%3A%2F%2Fwww.sports.ru%2Fhandball%2Fblogs%2F3274901.html HTTP/1.1" 200
+[2024-11-14 15:05:40,683.683] INFO [5448] - Shutting down
+[2024-11-14 15:05:40,794.794] INFO [5448] - Waiting for application shutdown.
+[2024-11-14 15:05:40,794.794] INFO [5448] - Application shutdown complete.
+[2024-11-14 15:05:40,794.794] INFO [5448] - Finished server process [12156]
+[2024-11-14 15:05:43,667.667] INFO [17364] - Started server process [7368]
+[2024-11-14 15:05:43,667.667] INFO [17364] - Waiting for application startup.
+[2024-11-14 15:05:43,686.686] INFO [17364] - Application startup complete.
+[2024-11-14 15:05:43,704.704] INFO [17364] - Uvicorn running on http://localhost:3000 (Press CTRL+C to quit)
+[2024-11-14 15:05:51,907.907] INFO [17364] - ::1:52878 - "GET /docs HTTP/1.1" 200
+[2024-11-14 15:05:52,351.351] INFO [17364] - ::1:52878 - "GET /openapi.json HTTP/1.1" 200
+[2024-11-14 15:05:56,410.410] INFO [17364] - ::1:52878 - "POST /add_short_link?url=https%3A%2F%2Fwww.sports.ru%2Fhandball%2Fblogs%2F3274901.html HTTP/1.1" 200
+[2024-11-14 15:06:10,099.099] INFO [17364] - Shutting down
+[2024-11-14 15:06:10,211.211] INFO [17364] - Waiting for application shutdown.
+[2024-11-14 15:06:10,211.211] INFO [17364] - Application shutdown complete.
+[2024-11-14 15:06:10,211.211] INFO [17364] - Finished server process [7368]
+[2024-11-14 15:06:12,280.280] INFO [7536] - Started server process [17308]
+[2024-11-14 15:06:12,280.280] INFO [7536] - Waiting for application startup.
+[2024-11-14 15:06:12,301.301] INFO [7536] - Application startup complete.
+[2024-11-14 15:06:12,303.303] INFO [7536] - Uvicorn running on http://localhost:3000 (Press CTRL+C to quit)
+[2024-11-14 15:06:18,410.410] INFO [7536] - ::1:52899 - "GET /docs HTTP/1.1" 200
+[2024-11-14 15:06:18,651.651] INFO [7536] - ::1:52899 - "GET /openapi.json HTTP/1.1" 200
+[2024-11-14 15:06:22,401.401] INFO [7536] - ::1:52899 - "POST /add_short_link?url=https%3A%2F%2Fwww.sports.ru%2Fhandball%2Fblogs%2F3274901.html HTTP/1.1" 200
+[2024-11-14 15:06:30,731.731] INFO [7536] - ::1:52900 - "POST /add_short_link?url=https%3A%2F%2Fwww.sports.ru%2F HTTP/1.1" 200
+[2024-11-14 15:06:35,739.739] INFO [7536] - ::1:52900 - "POST /add_short_link?url=ht%3A%2F%2Fwww.sports.ru%2F HTTP/1.1" 200
+[2024-11-14 15:06:44,188.188] INFO [7536] - ::1:52904 - "POST /add_short_link?url=https%3A%2F%2Fwww.sports.r%2F HTTP/1.1" 200
+[2024-11-14 15:06:50,174.174] INFO [7536] - ::1:52908 - "POST /add_short_link?url=https%3A%2F%2Fw.sports.r%2F HTTP/1.1" 200
+[2024-11-14 15:08:47,932.932] INFO [7536] - Shutting down
+[2024-11-14 15:08:48,044.044] INFO [7536] - Waiting for application shutdown.
+[2024-11-14 15:08:48,044.044] INFO [7536] - Application shutdown complete.
+[2024-11-14 15:08:48,044.044] INFO [7536] - Finished server process [17308]
+[2024-11-14 15:08:52,023.023] INFO [2128] - Started server process [7664]
+[2024-11-14 15:08:52,023.023] INFO [2128] - Waiting for application startup.
+[2024-11-14 15:08:52,058.058] INFO [2128] - Application startup complete.
+[2024-11-14 15:08:52,068.068] INFO [2128] - Uvicorn running on http://localhost:3000 (Press CTRL+C to quit)
+[2024-11-14 15:09:02,616.616] INFO [2128] - ::1:52954 - "GET /docs HTTP/1.1" 200
+[2024-11-14 15:09:02,885.885] INFO [2128] - ::1:52954 - "GET /openapi.json HTTP/1.1" 200
+[2024-11-14 15:09:09,492.492] INFO [2128] - ::1:52955 - "POST /add_short_link?url=htt%3A%2F%2Fw.sports.r%2F HTTP/1.1" 200
+[2024-11-14 15:09:37,715.715] INFO [2128] - ::1:52965 - "POST /add_short_link?url=http%3A%2F%2Fw.sports.r%2F HTTP/1.1" 200
+[2024-11-14 15:09:42,849.849] INFO [2128] - ::1:52968 - "POST /add_short_link?url=http%3A%2F%2Fw.sports.ru%2F HTTP/1.1" 200
+[2024-11-14 15:09:47,713.713] INFO [2128] - ::1:52968 - "POST /add_short_link?url=http%3A%2F%2Fwww.sports.ru%2F HTTP/1.1" 200
+[2024-11-14 15:09:47,899.899] INFO [2128] - ::1:52968 - "POST /add_short_link?url=http%3A%2F%2Fwww.sports.ru%2F HTTP/1.1" 200
+[2024-11-14 15:15:10,479.479] INFO [2128] - Shutting down
+[2024-11-14 15:15:10,590.590] INFO [2128] - Waiting for application shutdown.
+[2024-11-14 15:15:10,590.590] INFO [2128] - Application shutdown complete.
+[2024-11-14 15:15:10,590.590] INFO [2128] - Finished server process [7664]
